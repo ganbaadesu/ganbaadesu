@@ -11,3 +11,12 @@
 - 💬 Ask me about everything you want to 
 - 📫 How to reach me: ganbatdesu@gmail.com
 - ⚡ Fun fact: Working on senior level responsibilities as junior level experience.
+- Skills
+  - Odoo ERP development
+  - Nextjs
+  - Typescript
+  - Laravel
+  - Flask
+  - Dotnet
+  - Database administrator
+  - Linux
