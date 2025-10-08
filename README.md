@@ -1,13 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Erdenet Mining Corporation
-- 🌱 I’m currently learning
-  - Team working
-  - Writing
-  - C#
-  - Machine Learning
-  - Python
-  - Speaking
-- 💬 Ask me about everything you want to 
-- 📫 How to reach me: ganbatdesu@gmail.com
-- ⚡ Fun fact: Datascientist working on different field
+# Python usefull scripts one day you might use it.
+## files
+### mp4 video converter into mp3 soundtrack.
