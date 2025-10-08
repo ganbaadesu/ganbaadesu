@@ -10,4 +10,4 @@
   - Speaking
 - 💬 Ask me about everything you want to 
 - 📫 How to reach me: ganbatdesu@gmail.com
-- ⚡ Fun fact: Datascientist working on different field
+- ⚡ Fun fact: Working on senior level responsibilities as junior level experience.
